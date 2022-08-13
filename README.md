@@ -1,5 +1,4 @@
 # UNC's Top Research Collaborations and Research Topics
-Repository: project-3-kshah1996
 
 This project outputs an RShiny application that describes UNC's Top 10 research collaborations from a selected subset of research abstracts, along with the most frequent keywords associated with the abstracts from each institution.
 
